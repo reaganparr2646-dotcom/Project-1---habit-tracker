@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Workout",
+        "description": "60 Minutes",
+        "frequency": "daily",
+        "completed": false,
+        "reset_marker": "2026-07-21"
+    },
+    {
+        "name": "Read",
+        "description": "30 Minutes",
+        "frequency": "daily",
+        "completed": false,
+        "reset_marker": "2026-07-21"
+    },
+    {
+        "name": "Run",
+        "description": "30 - 45 minutes",
+        "frequency": "weekly",
+        "completed": false,
+        "reset_marker": "2026-07-19"
+    },
+    {
+        "name": "Pray",
+        "description": "Mornings",
+        "frequency": "daily",
+        "completed": false,
+        "reset_marker": "2026-07-21"
+    }
+]
